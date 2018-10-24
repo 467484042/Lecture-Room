@@ -1,0 +1,55 @@
+[22-Oct-2018 10:34:20 Australia/Sydney] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home2/u2bic/public_html/Allen/mysql_connect.php on line 17
+[22-Oct-2018 10:34:20 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home2/u2bic/public_html/Allen/mysql_connect.php:18
+Stack trace:
+#0 /home2/u2bic/public_html/Allen/mysql_connect.php(8): read()
+#1 {main}
+  thrown in /home2/u2bic/public_html/Allen/mysql_connect.php on line 18
+[22-Oct-2018 11:08:54 Australia/Sydney] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home2/u2bic/public_html/Allen/mysql_connect.php on line 17
+[22-Oct-2018 11:08:54 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home2/u2bic/public_html/Allen/mysql_connect.php:18
+Stack trace:
+#0 /home2/u2bic/public_html/Allen/mysql_connect.php(8): read()
+#1 {main}
+  thrown in /home2/u2bic/public_html/Allen/mysql_connect.php on line 18
+[22-Oct-2018 11:59:21 Australia/Sydney] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home2/u2bic/public_html/Allen/mysql_connect.php on line 17
+[22-Oct-2018 11:59:21 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home2/u2bic/public_html/Allen/mysql_connect.php:18
+Stack trace:
+#0 /home2/u2bic/public_html/Allen/mysql_connect.php(8): read()
+#1 {main}
+  thrown in /home2/u2bic/public_html/Allen/mysql_connect.php on line 18
+[22-Oct-2018 16:55:10 Australia/Sydney] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home2/u2bic/public_html/Allen/mysql_connect.php on line 17
+[22-Oct-2018 16:55:10 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home2/u2bic/public_html/Allen/mysql_connect.php:18
+Stack trace:
+#0 /home2/u2bic/public_html/Allen/mysql_connect.php(8): read()
+#1 {main}
+  thrown in /home2/u2bic/public_html/Allen/mysql_connect.php on line 18
+[23-Oct-2018 01:23:26 Australia/Sydney] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home2/u2bic/public_html/Allen/mysql_connect.php on line 17
+[23-Oct-2018 01:23:26 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home2/u2bic/public_html/Allen/mysql_connect.php:18
+Stack trace:
+#0 /home2/u2bic/public_html/Allen/mysql_connect.php(8): read()
+#1 {main}
+  thrown in /home2/u2bic/public_html/Allen/mysql_connect.php on line 18
+[23-Oct-2018 13:03:19 Australia/Sydney] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home2/u2bic/public_html/Team B Lecture Room/mysql_connect.php on line 17
+[23-Oct-2018 13:03:19 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home2/u2bic/public_html/Team B Lecture Room/mysql_connect.php:18
+Stack trace:
+#0 /home2/u2bic/public_html/Team B Lecture Room/mysql_connect.php(8): read()
+#1 {main}
+  thrown in /home2/u2bic/public_html/Team B Lecture Room/mysql_connect.php on line 18
+[24-Oct-2018 00:33:22 Australia/Sydney] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home2/u2bic/public_html/allen2/mysql_connect.php on line 17
+[24-Oct-2018 00:33:22 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home2/u2bic/public_html/allen2/mysql_connect.php:18
+Stack trace:
+#0 /home2/u2bic/public_html/allen2/mysql_connect.php(8): read()
+#1 {main}
+  thrown in /home2/u2bic/public_html/allen2/mysql_connect.php on line 18
+[24-Oct-2018 00:33:30 Australia/Sydney] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home2/u2bic/public_html/allen2/mysql_connect.php on line 17
+[24-Oct-2018 00:33:30 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home2/u2bic/public_html/allen2/mysql_connect.php:18
+Stack trace:
+#0 /home2/u2bic/public_html/allen2/mysql_connect.php(8): read()
+#1 {main}
+  thrown in /home2/u2bic/public_html/allen2/mysql_connect.php on line 18
+[24-Oct-2018 00:33:36 Australia/Sydney] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home2/u2bic/public_html/allen2/mysql_connect.php on line 17
+[24-Oct-2018 00:33:36 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home2/u2bic/public_html/allen2/mysql_connect.php:18
+Stack trace:
+#0 /home2/u2bic/public_html/allen2/mysql_connect.php(8): read()
+#1 {main}
+  thrown in /home2/u2bic/public_html/allen2/mysql_connect.php on line 18
+[24-Oct-2018 16:14:11 Australia/Sydney] PHP Notice:  Undefined variable: user_arr in /home2/u2bic/public_html/allen2/mysql_connect.php on line 25
